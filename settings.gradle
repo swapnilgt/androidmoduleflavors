@@ -1,0 +1,3 @@
+rootProject.name = "Module Flavors"
+include ':app'
+include ':paymentsdk'
